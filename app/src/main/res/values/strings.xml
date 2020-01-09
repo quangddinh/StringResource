@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StringResource</string>
+    <string name="lable_title">Đăng nhập hệ thống</string>
+    <string name="lable_account">Nhập tài khoản</string>
+    <string name="lable_pass">Nhập mật khẩu</string>
+    <string name="lable_login">Đăng nhập</string>
+    <string name="lable_show_acc">Tài khoản</string>
+    <string name="lable_show_pass">Mật khẩu</string>
+</resources>

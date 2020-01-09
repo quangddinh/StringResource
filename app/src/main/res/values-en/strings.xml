@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StringResource</string>
+    <string name="lable_title">Login System</string>
+    <string name="lable_pass">Password</string>
+    <string name="lable_login">Login</string>
+    <string name="lable_account">Login System</string>
+    <string name="lable_show_acc">Account name</string>
+    <string name="lable_show_pass">Password</string>
+</resources>
